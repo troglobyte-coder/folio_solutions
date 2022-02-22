@@ -2,21 +2,19 @@
 
 ## overview
 
-The learning module is a tool to help you
-learn with a hands-on approach to coding,
+The hacker folio module is a way to help you
+see what I've solved for yourself,
 in this case, it's written in `X`, it also
 includes notes throughout the project to
 give further information.
 
-If you wanna learn some other language or add
-more languages to your list then look around
-for a learning module with the programming language
-you wish to learn.
+If you wanna see solutions in some other language
+I've used then look around.
 
 ## contact
 
 If you want to contact me and have a few questions
-regarding the topic of programming you can write
+regarding the solutions in the programming you can write
 me a letter, my Gmail is <michaelbrockus@gmail.com>.
 
 You may find that I have some social media platforms
